@@ -1,0 +1,87 @@
+{
+  "GLOBAL": {
+    "TWSILA": "Twsila"
+  },
+  "HEADER": {
+    "NAVBAR": {
+      "HOME": "Home",
+      "ABOUT": "About Twsila",
+      "GALLERY": "Gallery",
+      "PRICING": "Pricing",
+      "CAREER": "Career",
+      "CONTACT": "Contact"
+    },
+    "HERO": {
+      "TEXT1": "Simply with us, move everything: furniture, goods, cars, people... and more with",
+      "TEXT2": "Whether your items are few or many, small or large, a delivery will take them to a nearby or far location without hassle.",
+      "LETSSTART": "Let's Start"
+    }
+  },
+  "ABOUT": {
+    "TITLE": "TWSILA is a Saudi Application",
+    "DESC": "Targeting The Global Market Specialized In Transporting People, Goods, Furniture, Cars, Water,…….and_more."
+  },
+  "PRICING": {
+    "DESC": "We offer a 100% negotiable price between the passenger and the captain. With no app trace, get the most out of all reports."
+  },
+  "CONTACT": {
+    "EMAIL": "Email Address",
+    "FULLNAME": "Full Name",
+    "SUBJECT": "Subject Message",
+    "DESCRIPTION": "Message Description",
+    "PHONE": "Contact Number",
+    "SEND": "Send",
+    "SLOGAN": "Your Feedback Drives Us Forward!"
+  },
+  "CAREER": {
+    "SLOGAN": "Grow with Us, Succeed with Us!",
+    "SUBMIT": "Save",
+    "FIRSTNAME": "First Name",
+    "LASTNAME": "Last Name",
+    "EMAIL": "Email Address",
+    "CV": "Upload Your Resume",
+    "NOFILECHOSEN": "No File Chosen"
+  },
+  "PRIVACY": {
+    "SLOGAN": "Committed to Protecting Your Data!",
+    "SHOW": "Terms and Condition",
+    "TERMSANDCONDITION": {
+      "CONTRACTRELATION": {
+        "TITLE": "Contractual Relationship",
+        "DESC": "These Terms of Use govern the access or use by individuals in the Kingdom of Saudi Arabia of the applications, websites, content and services provided by the Abdul Rahman bin Nasser bin Abdullah Al-Shaqawi Information Systems Technology Foundation (Tawseela Application), a sole proprietorship established in the Kingdom of Saudi Arabia and headquartered in Al-Ahsa."
+      },
+      "TERMSOFUSE": {
+        "TITLE": "Terms of Use",
+        "DESC": "By using the Tawseela Services, you agree to be bound by these Terms, which establish a contractual relationship between you and Tawseela. If you do not agree to these Terms, you may not access or use the Services. These Terms specifically replace any prior agreements or arrangements with you. Tawseela may terminate these Terms or any of the Services to which you are entitled immediately or generally stop offering or deny access to the Services or any part thereof at any time for any reason."
+      },
+      "BASICSERVICES": {
+        "TITLE": "Basic Services",
+        "DESC": "The Services constitute a mobile application that enables users of the mobile applications provided as part of the Services (each, an 'Application') to arrange and schedule transportation and/or logistics services with independent third-party providers of such services, including independent third-party transportation providers and independent third-party logistics providers under an agreement with Tawsilah (the 'Third-Party Providers'). All transportation or logistics services are provided by independent third-party providers who are not employed by Tawsilah or any of its affiliates."
+      },
+      "DISCLAIMERLIMITINFO": {
+        "HEAD": "Disclaimer, Limitation of Liability, and Indemnification",
+        "TITLEDISC": "Disclaimer:",
+        "DESCDISC": "The Services are provided on an 'as is' and 'as available' basis. Tawseela disclaims all representations and warranties, express, implied, or statutory, not expressly set out in these Terms, including the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Furthermore, Tawseela makes no representations, warranties, or guarantees regarding the timeliness, quality, suitability, or availability of the Services or any of them, or that the Services will be uninterrupted or error-free. Tawseela does not guarantee the quality, suitability, safety, or ability of third-party service providers. You agree that the entire risk arising out of and in connection with your use of the Services remains with you, to the maximum extent permitted by applicable law. You agree to indemnify Tawseela, its officers, directors, employees, and agents from all claims, losses, liabilities, and expenses arising out of or in connection with your use of the Tawseela Platform and Services.",
+        "TITLELIMI": "Limits of Liability:",
+        "DESCLIMI": "Tawsila will not be liable for any direct, indirect, incidental, special, exemplary, punitive, or consequential damages, including loss of profits, loss of data, personal injury, or property damage, related to or resulting in any way from the use of the Services, even if Tawsila has been advised of the possibility of such damages. Tawsila will not be liable for any damages, liabilities, or losses arising from: (1) your use of, reliance on, or inability to access or use the Services; or (2) any transaction or relationship between you and any Third Party Provider, even if Tawsila has been advised of the possibility of such damages. Tawsila will not be liable for delays or failure to perform due to causes beyond Tawsila's reasonable control. You may use the Tawsila Services to request and schedule transportation or logistics services provided by Third Party Providers, but you agree that Tawsila will not be responsible or liable to you for any transportation or logistics services provided to you by Third Party Providers except as expressly set forth in these Terms.",
+        "TITLECOMP": "Compensation",
+        "DESCCOMP": "You agree to indemnify and hold harmless Tosila from and against all claims, losses, liabilities and expenses arising out of or in connection with: (1) your use of the Services (2) your breach or violation of any of these Terms:"
+      },
+      "LAWAPPLICABLE": {
+        "TITLE": "The law applicable to the arbitration proceedings.",
+        "DESC": "Except as otherwise provided in these Terms, these Terms shall be governed by and construed in accordance with the laws of the Kingdom of Saudi Arabia alone, excluding its rules relating to conflicts of laws, and the language of mediation shall be Arabic."
+      },
+      "OTHERPROV":{
+        "HEAD":"Other Provisions",
+        "TITLENOTIFY":"Notifications",
+        "DESCNOTIFY":"Tawsila may provide notices by sending a general notice regarding the Services, by email to your registered email address, by text message or notification through the Application Platform, or by sending a written letter by regular mail to your registered address. You may also provide notices to Tawsila by written correspondence to an address the Company deems appropriate.",
+        "TITLEPOLICY":"Website and Application Platform Policy",
+        "DESCPOLICY":"We collect information that helps us determine your location, including GPS information, Internet Protocol (IP) address, and Wi-Fi network. There are many ways location information helps create a seamless and hassle-free experience. Pricing is determined based on an agreement between the service requester and the captain without any intervention from the app. Your location is used to facilitate driver pickup and drop-off, provide ride status, history, and billing, facilitate research and development, schedule trips, create trips by the captain, enable social features, enhance the safety and security of our users' accounts, and combat and detect fraud."
+      }
+    }
+  },
+  "FOOTER": {
+    "EMAIL": "Email:",
+    "PHONE": "Phone:"
+  }
+}
