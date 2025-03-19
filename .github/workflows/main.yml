@@ -19,7 +19,7 @@ jobs:
           node-version: 18  # Change this to match your Angular version requirements
 
       - name: Install dependencies
-        run: npm ci
+        run: npm i
 
       - name: Build Angular project
         run: npm run build -- --configuration production --base-href twsila-portfolio
