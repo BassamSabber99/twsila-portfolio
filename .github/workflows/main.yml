@@ -29,5 +29,5 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }} # Use PAT instead of default GITHUB_TOKEN
           branch: gh-pages  # Branch where GitHub Pages is hosted
-          folder: dist/twsila-portfolio  # Adjust this to your Angular build output directory
+          folder: dist/twsila-portfolio/browser  # Adjust this to your Angular build output directory
           clean: true
