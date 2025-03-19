@@ -34,12 +34,22 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+              "src/assets"
             ],
             "styles": [
+              "./node_modules/primeicons/primeicons.css",
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "./node_modules/bootstrap-icons/font/bootstrap-icons.min.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/aos/dist/aos.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "./node_modules/aos/dist/aos.js"
+
+            ]
           },
           "configurations": {
             "production": {
@@ -92,12 +102,21 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+              "src/assets"
             ],
             "styles": [
+              "./node_modules/primeicons/primeicons.css",
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "./node_modules/bootstrap-icons/font/bootstrap-icons.min.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/aos/dist/aos.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "./node_modules/aos/dist/aos.js"
+            ]
           }
         }
       }
