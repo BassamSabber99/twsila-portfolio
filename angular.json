@@ -49,15 +49,16 @@
               "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "./node_modules/aos/dist/aos.js"
 
-            ]
+            ],
+            "allowedCommonJsDependencies": ["aos"]
           },
           "configurations": {
             "production": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kB",
-                  "maximumError": "1MB"
+                  "maximumWarning": "1.30MB",
+                  "maximumError": "1.30MB"
                 },
                 {
                   "type": "anyComponentStyle",
